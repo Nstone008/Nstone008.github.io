@@ -1,3 +1,12 @@
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: [Nick Stone]
+description: [Graduated from Webster University with a degree in Games and Game Design, 
+currently has 9 years experience with Unity Game Engine. Over that time I have worked 
+on many different projects, from building an arcade cabinet and developing a specific video game, 
+"Umami!". To working in different groups for small projects, as well as testing my skill with game jams. 
+Currently my main project I have been working on is a title called "Java Saga", originally starting to 
+work on it since 2018 with a group of creatives. I'm not the creator of the world of "Java Saga", 
+but have been working ot make the concepts come to life and be fun!]
