@@ -1,0 +1,28 @@
+{
+  "name": "nstone008.github.io",
+  "version": "1.0.0",
+  "description": "Personal Website",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nstone008/Nstone008.github.io.git"
+  },
+  "keywords": [
+    "Website"
+  ],
+  "author": "Nick Stone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nstone008/Nstone008.github.io/issues"
+  },
+  "homepage": "https://github.com/Nstone008/Nstone008.github.io#readme",
+  "dependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "express": "^4.18.2"
+  }
+}
